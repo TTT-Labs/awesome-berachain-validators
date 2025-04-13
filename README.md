@@ -50,6 +50,7 @@
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | pebbledb  |
 | [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | pebbledb  |
 | [RHINO](https://berachain-apis.com)                                                                             | pebbledb  |
+| [TTT](https://services.tienthuattoan.com/mainnet/berachain/snapshot)                                            | pebbledb  |
 
 | Execution Layer Snapshots                                                                                       | Client  |
 |-----------------------------------------------------------------------------------------------------------------|---------|
@@ -58,6 +59,7 @@
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | reth    |
 | [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | ALL     |
 | [RHINO](https://berachain-apis.com)                                                                             | reth    |
+| [TTT](https://services.tienthuattoan.com/mainnet/berachain/snapshot)                                            | geth    |
 
 ## FAQ
 * **How do I address missed blocks on my validator?**
